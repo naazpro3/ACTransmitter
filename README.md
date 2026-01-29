@@ -3,8 +3,11 @@ A Transmitter which i made for playing Assetto Corsa and driving my RoboSoccer R
 
 # Requirements
 Arduino IDE (with ESP32 Boards Installed) - https://www.arduino.cc/en/software/
+
 Vjoy - https://github.com/shauleiz/vJoy/releases/tag/v2.1.8.39
+
 VjoySerialFeeder - https://github.com/Cleric-K/vJoySerialFeeder
+
 x360ce (for Xbox Controller Emulation) - https://github.com/x360ce/x360ce/releases/tag/3.2.9.82
 
 # Installation
